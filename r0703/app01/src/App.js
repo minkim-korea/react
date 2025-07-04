@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-
+import './css/style.css';
 function App() {
    const btn = () => {
     alert("로그인 진행합니다.");
