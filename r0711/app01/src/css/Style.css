@@ -1,0 +1,12 @@
+.top_title{margin-top:50px;}
+.card{width: 18rem;}
+
+
+.movie_list{width: 700px; border: 1px solid black; height: 40px; 
+border-radius: 10px;
+display: flex ;   text-align: center;  margin:20px auto; align-items: center; font-size: 20px;
+}
+
+.movie_no{width:100px; }
+.movie_title{width:400px; }
+.movie_year{width:200px; }
